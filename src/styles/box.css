@@ -1,0 +1,13 @@
+#container {
+    display: flex;
+    height: 1500px;
+    border: 1px solid blue;
+  }
+  
+  #audrey {
+    background-color: purple;
+    color: snow;
+    min-height: 100px;
+    min-width: 50px;
+    position: fixed;
+  }
